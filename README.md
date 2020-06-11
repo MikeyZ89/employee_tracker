@@ -32,10 +32,10 @@ Employee Tracker
 NA
 
 ## Usage:
-Follow the prompt "node index.js" and follow commands
+Follow the prompt "node index.js" and follow commands to Add Departments, Roles, and Employees. 
 
 ## Tests:
-  
+![image of GIF](./Assets/employee_tracker.gif)
 
 ## Questions:
 * GitHub Profile: MikeyZ89
